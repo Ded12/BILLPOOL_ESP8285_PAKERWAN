@@ -1,0 +1,11 @@
+ON  http://192.168.1.101/on?password=1d2084d04e5f80725466a21434438ba2
+
+OFF http://192.168.1.101/off?password=1d2084d04e5f80725466a21434438ba2
+
+Timer Duration http://192.168.1.101/duration?password=1d2084d04e5f80725466a21434438ba2
+
+Status http://192.168.1.101/status?password=1d2084d04e5f80725466a21434438ba2
+
+SelayStatus  http://192.168.1.101/relayStatus?password=1d2084d04e5f80725466a21434438ba2
+
+Warning http://192.168.1.101/warning?duration=10&password==1d2084d04e5f80725466a21434438ba2
